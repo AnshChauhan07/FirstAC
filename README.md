@@ -1,4 +1,7 @@
 # FirstAC
 My first repository
 <br></br>
-<h2 style="color:red;">Hello</h2>
+<script>
+p:active{color:red;
+}</script>
+<p style="color:red;">Hello</p>
